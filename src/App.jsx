@@ -1,4 +1,5 @@
 import { About } from "./components/About"
+import { ContactFooter } from "./components/ContactFooter"
 import { DisciplineStrip } from "./components/DisciplineStrip"
 import { Hero } from "./components/Hero"
 import { SelectedWork } from "./components/SelectedWork"
@@ -15,6 +16,7 @@ function App() {
       <SelectedWork />
       <Services />
       <About />
+      <ContactFooter />
     </main>
   )
 }
