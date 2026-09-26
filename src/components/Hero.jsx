@@ -23,7 +23,7 @@ export function Hero() {
                         <span className="text-primary">with character.</span>
                     </h1>
                     <p className="mt-6 max-w-md text-base leading-relaxed text-muted-foreground lg:text-lg">
-                        Mara Voss creates identity systems, editorial worlds, and digital experiences for
+                        Emmanuel creates identity systems, editorial worlds, and digital experiences for
                         ambitious ideas.
                     </p>
                     <div className="mt-8 flex flex-wrap items-center gap-3">

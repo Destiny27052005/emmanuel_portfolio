@@ -20,8 +20,8 @@ export function ContactFooter() {
           </div>
         </div>
         <div className="mt-16 flex flex-col justify-between gap-2 border-t border-primary-foreground/30 py-6 font-mono text-[9px] uppercase text-primary-foreground/70 sm:flex-row">
-          <span>© 2026 Mara Voss Studio</span>
-          <span>Built in-house · Berlin</span>
+          <span>© 2026 Emmanuel Studio</span>
+          <span>Built in-house · Ibadan</span>
         </div>
       </div>
     </footer>
