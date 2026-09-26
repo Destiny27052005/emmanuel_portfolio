@@ -1,3 +1,4 @@
+import { About } from "./components/About"
 import { DisciplineStrip } from "./components/DisciplineStrip"
 import { Hero } from "./components/Hero"
 import { SelectedWork } from "./components/SelectedWork"
@@ -13,6 +14,7 @@ function App() {
       <DisciplineStrip />
       <SelectedWork />
       <Services />
+      <About />
     </main>
   )
 }
