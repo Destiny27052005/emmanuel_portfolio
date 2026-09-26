@@ -1,3 +1,4 @@
+import { Hero } from "./components/Hero"
 import { SiteHeader } from "./components/Siteheader"
 
 function App() {
@@ -5,6 +6,7 @@ function App() {
   return (
     <main className="min-h-screen overflow-hidden bg-background text-foreground">
       <SiteHeader />
+      <Hero />
     </main>
   )
 }
