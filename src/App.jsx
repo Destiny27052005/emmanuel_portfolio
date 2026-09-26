@@ -1,5 +1,6 @@
 import { DisciplineStrip } from "./components/DisciplineStrip"
 import { Hero } from "./components/Hero"
+import { SelectedWork } from "./components/SelectedWork"
 import { SiteHeader } from "./components/Siteheader"
 
 function App() {
@@ -9,6 +10,7 @@ function App() {
       <SiteHeader />
       <Hero />
       <DisciplineStrip />
+      <SelectedWork />
     </main>
   )
 }
